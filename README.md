@@ -9,9 +9,9 @@
    <br>
   Each pipeline includes:
   <br>
-  1. A preprocessor that handles both numerical imputation and categorical encoding.
+       1. A preprocessor that handles both numerical imputation and categorical encoding.
      <br>
-  2. A model that will make predictions based on the processed data.
+       2. A model that will make predictions based on the processed data.
 <br>
  5. we recieved two ROC AUC scores- one for each vaccine and a final as avg of these two.
     <br>
