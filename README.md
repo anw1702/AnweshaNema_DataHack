@@ -1,5 +1,5 @@
 # Brief of the Approach and method
-  1. Handling of missing values using the model of IterativeImputer that accepts the missing values, and encoding using one hot encoder
+1. Handling of missing values using the model of IterativeImputer that accepts the missing values, and encoding using one hot encoder
   <br>
   2. Selection of ML models - RandomForestClassifier and GradientBoostingClassifier as they can haldle various data types and it can handle missing values directly.
   <br>
